@@ -4,8 +4,6 @@ Hi 👋 My name is Riccardo Ferro
 Web Developer
 -------------
 
-I've been learning code for a long time, since i was at the high-school till now.
-
 *   🌍  I'm based in Ragusa, Sicily, Italy
 *   ✉️  You can contact me at [riccardo.ferron8@gmail.com](mailto:riccardo.ferron8@gmail.com)
 *   🧠  I'm learning web developing
