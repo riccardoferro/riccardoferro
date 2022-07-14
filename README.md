@@ -7,7 +7,7 @@ Web Developer
 *   🌍  I'm based in Ragusa, Sicily, Italy
 *   ✉️  You can contact me at [riccardo.ferron8@gmail.com](mailto:riccardo.ferron8@gmail.com)
 *   🧠  I'm learning web developing
-*   🤝  I'm open to collaborating on Interesing projects
+*   🤝  I'm open to collaborating on interesting projects
 
 ### Skills
 
