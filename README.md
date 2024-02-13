@@ -4,9 +4,9 @@ Hi 👋 My name is Riccardo Ferro
 Web Developer
 -------------
 
-*   🌍  I'm based in Ragusa, Sicily, Italy
+*   🌍  I'm based in Ragusa but currently located in Bologna
 *   ✉️  You can contact me at [riccardo.ferron8@gmail.com](mailto:riccardo.ferron8@gmail.com)
-*   🧠  I'm learning web developing
+*   🧠  I'm a junior full stack web developer
 *   🤝  I'm open to collaborating on interesting projects
 
 ### Skills
